@@ -1,0 +1,20 @@
+{
+    "products":[
+        {
+            "id":1,
+            "title":"MRF Bat",
+            "category":"Sports",
+            "stockQuantity":5,
+            "imgSrc":"assets/images/mrf-bat.jpg",
+            "price":15000
+        },
+        {
+            "id":2,
+            "title":"iphone 15 pro max",
+            "category":"Gadgets",
+            "stockQuantity":5,
+            "imgSrc":"assets/images/iphone.jpeg",
+            "price":150000
+        }
+    ]
+}
